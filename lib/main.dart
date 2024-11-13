@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:orenji/menu.dart';
+import 'package:orenji/screens/menu.dart';
 
 void main() {
   runApp(const MyApp());
